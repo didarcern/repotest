@@ -2,4 +2,4 @@ select n.everything
 from nothing n
 where n.anything = "null"
 order by something
-limit 1
+limit 0
