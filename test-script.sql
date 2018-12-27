@@ -2,4 +2,4 @@ select *
 from nothing n
 where n.anything = "null"
 order by something
-limit 0
+limit 100
