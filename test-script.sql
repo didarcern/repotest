@@ -1,4 +1,4 @@
-select *
+select n.everything
 from nothing n
 where n.anything = "null"
 order by something
